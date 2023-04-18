@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Joker Poker Shots</title>
+        <title>Jokeri Pokeri Shots</title>
         <meta name="description" content="Very fun shotting gama" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon-slots.png" />
